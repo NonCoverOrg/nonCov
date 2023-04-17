@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/nonCov.iml" filepath="$PROJECT_DIR$/.idea/nonCov.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/nonCovScala.iml" filepath="$PROJECT_DIR$/.idea/modules/nonCovScala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nonCovScala/.idea/modules/nonCovScala-build.iml" filepath="$PROJECT_DIR$/nonCovScala/.idea/modules/nonCovScala-build.iml" />
+    </modules>
+  </component>
+</project>
